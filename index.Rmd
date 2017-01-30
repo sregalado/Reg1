@@ -1,0 +1,7 @@
+---
+title: "Homepage"
+author: "SA Regalado"
+date: "January 30, 2017"
+output: html_document
+---
+<center><i>Initial website for GitHub project</i></center>
